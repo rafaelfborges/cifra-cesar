@@ -1,4 +1,4 @@
-# cifra-cesar
+# Criptografia de Júlio Cesar
 Minha solução em Java para o desafio Criptografia de Júlio Cesar proposta pela AceleraDev, na etapa do processo seletivo para uma bolsa de aceleração de PHP em parceria com a empresa VHSYS na grande Curitiba.
 
 A proposta do desafio consistia em realizar uma requisição HTTP para uma determinada API, que por sua vez retornava um JSON. A partir deste JSON o objetivo era realizar os seguintes passos:
